@@ -5,4 +5,7 @@ But I put this in my gate hub so that those who need it,
 do not have the opportunity to rewrite this tool that was already written and use this very simple tool.
 
 
-<h1>using</h1>
+using => 
+git clone https://github.com/the-h3x/check-valid.git
+cd check-valid
+python3 validator.py
